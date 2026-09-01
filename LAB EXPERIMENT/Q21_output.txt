@@ -1,0 +1,13 @@
+Original DataFrame:
+             name
+0  Alberto Franco
+1    Gino Mcneill
+2     Ryan Parkes
+3    Eesha Hinton
+
+DataFrame after swapping cases:
+             name
+0  aLBERTO fRANCO
+1    gINO mCNEILL
+2     rYAN pARKES
+3    eESHA hINTON
