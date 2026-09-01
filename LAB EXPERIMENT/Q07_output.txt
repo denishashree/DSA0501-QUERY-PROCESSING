@@ -1,0 +1,9 @@
+Maximum and Minimum Sale Value of Items:
+                  max      min
+             Sale_amt Sale_amt
+Item                          
+Cell Phone      14400     6075
+Desk              250      250
+Home Theater    40500    14000
+Television     113810    38336
+Video Games       936      936

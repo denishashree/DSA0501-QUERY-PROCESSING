@@ -1,0 +1,29 @@
+Total Sale Amount Region-wise:
+         Sale_amt
+Region           
+Central    393943
+East       286076
+West       105424
+
+Total Sale Amount Manager-wise:
+         Sale_amt
+Manager          
+Douglas     79086
+Hermann    297768
+Martha     335426
+Timothy     73163
+
+Total Sale Amount Salesman-wise:
+           Sale_amt
+SalesMan           
+Alexander    231076
+David          6075
+Diana         14500
+John            250
+Karen         40500
+Luis         150948
+Michael       38336
+Shelli        25000
+Sigal        121820
+Stephen       67088
+Steven        89850

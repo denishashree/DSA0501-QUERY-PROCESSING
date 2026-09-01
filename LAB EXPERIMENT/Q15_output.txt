@@ -1,0 +1,5 @@
+Rows with at least 2 NaN values:
+    ord_no  purch_amt ord_date  customer_id
+0      NaN        NaN      NaN          NaN
+3      NaN        NaN      NaN          NaN
+11     NaN        NaN      NaN          NaN

@@ -1,0 +1,12 @@
+Given DataFrame:
+             name
+0  Alberto Franco
+1    Gino Mcneill
+2     Ryan Parkes
+3    Eesha Hinton
+
+Index of substring 'Parkes':
+0   -1
+1   -1
+2    5
+3   -1

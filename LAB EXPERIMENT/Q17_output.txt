@@ -1,0 +1,7 @@
+Mean, Minimum and Maximum age for each school:
+        mean  min  max
+school                
+s001    12.5   12   13
+s002    13.0   12   14
+s003    13.0   13   13
+s004    12.0   12   12
